@@ -40,15 +40,17 @@
 
 ## 学习过的源码
 
-*Spring,ibaits,mybatis,Hessian,Dubbo,CobarClient,RocketMQ,CMPPGate,CommonRPC,等
+1.Spring
+2.ibaits
+3.mybatis
+4.Hessian
+5.Dubbo
+6.CobarClient
+7.RocketMQ
+8.CMPPGate
+9.CommonRPC
+...还有很多github上个人的小项目
 
-## 计划学习的内容
-
-[canal](https://github.com/alibaba/canal)
-[Shell开发]
-[tbschedule](http://code.taobao.org/p/tbschedule/wiki/index/)
-[Kong](https://github.com/Mashape/kong)
-[鹰眼系统的设计与实现]
 
 
 ## 个人经历
