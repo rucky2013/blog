@@ -41,10 +41,10 @@
 ## 学习过的源码
 
 1.Spring
-2.ORM：ibaits mybatis CobarClient
-3.RPC：Hessian Dubbo CommonRPC
-4.MQ：RocketMQ 
-5.还有很多github上的个人项目
+1.ORM：ibaits mybatis CobarClient
+1.RPC：Hessian Dubbo CommonRPC
+1.MQ：RocketMQ 
+1.还有很多github上的个人项目
 
 
 ## 个人经历
