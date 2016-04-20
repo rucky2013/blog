@@ -40,11 +40,11 @@
 
 ## 学习过的源码
 
-1.Spring
-1.ORM：ibaits mybatis CobarClient
-1.RPC：Hessian Dubbo CommonRPC
-1.MQ：RocketMQ 
-1.还有很多github上的个人项目
+* Spring
+* ORM：ibaits mybatis CobarClient
+* RPC：Hessian Dubbo CommonRPC
+* MQ：RocketMQ 
+* 还有很多github上的个人项目
 
 
 ## 个人经历
